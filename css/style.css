@@ -192,7 +192,8 @@ body {
     position: absolute;
     bottom: 0;
     text-transform: uppercase;
-    width: 100vw;
+    max-width: 100%;
+    overflow: hidden;
     background-color: #F54932;
     color: #FFFFFF;
     font-size: 22px;
